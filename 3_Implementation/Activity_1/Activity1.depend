@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1631729610 source:c:\users\manasa\desktop\activity1\fuse.c
+	<avr/io.h>
+
+1631729699 source:c:\users\manasa\desktop\activity1\main.c
+	<avr/io.h>
+	"A1.h"
+
+1631729968 c:\users\manasa\desktop\activity1\a1.h
+
+1631730126 source:c:\users\manasa\desktop\activity1\a1.c
+	<avr/io.h>
+	<util/delay.h>
+	"A1.h"
+
